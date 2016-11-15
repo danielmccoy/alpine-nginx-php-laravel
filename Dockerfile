@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.3
 MAINTAINER Daniel McCoy <danielmccoy@gmail.com>
 
 # Install Nginx and PHP modules
