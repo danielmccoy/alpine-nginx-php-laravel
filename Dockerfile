@@ -18,6 +18,7 @@ RUN apk upgrade -U && \
   php-ctype \
   php-zlib \
   php-phar \
+  php-mysql \
   php-mysqli \
   php-pdo_mysql \
   php-curl \
